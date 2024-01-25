@@ -1,0 +1,1 @@
+var json_SMPN01KUANTANMUDIK_7 = {"type":"FeatureCollection","name":"SMPN01KUANTANMUDIK_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"SMPN 001":"SMPN 001"},"geometry":{"type":"Point","coordinates":[101.464131861438901,-0.660288184617852]}}]}
